@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=30&center=true&vCenter=true&width=800&lines=Data+Scientist;EDA+%26+Visualization+Specialist;Machine+Learning+Enthusiast;Lifelong+Learner" alt="Typing Animation" />
 </p>
 
-<h1 align="center">Hey there! 👋 I'm Demro</h1>
+<h1 align="center">Hey there! 👋 I'm Ahmed Hassan Eldemery </h1>
 
 <p align="center">
   Data Scientist | EDA & Visualization | Machine Learning Enthusiast
